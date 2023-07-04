@@ -1,3 +1,5 @@
+import { Photos } from "@/components/Photos";
+
 export default function Home() {
   return (
     <div className="gray px-8 py-16">
@@ -10,8 +12,8 @@ export default function Home() {
             Sign Up
           </a>
         </section>
-        <section className="mx-auto max-w-6xl">
-          <div className="text-xl">
+        <section className="mx-auto mt-20 max-w-6xl">
+          <div className="max-w-2xl space-y-4 text-xl">
             <h2 className="text-4xl font-semibold">Spark is...</h2>
             <p>
               Spark is a gender-focused hackathon (social coding event) open to
@@ -21,9 +23,23 @@ export default function Home() {
             </p>
             <p>
               At Spark, you&apos;ll have the freedom to create anything you
-              want, learn from your peers, and explore the city.
+              want, learn from your peers, and explore the city. Spark is
+              organized entirely by girls in the Hack Club community, and we
+              want you to help!{" "}
+              <a
+                href="https://hackclub.com/slack/?event=spark"
+                target="_blank"
+                rel="noreferrer"
+                className="font-medium"
+              >
+                Join us
+              </a>{" "}
+              to craft Spark into the experience you want it to be.
             </p>
           </div>
+        </section>
+        <section className="mt-20">
+          <Photos />
         </section>
       </main>
     </div>
