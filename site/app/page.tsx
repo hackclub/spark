@@ -1,15 +1,20 @@
+import { FAQ } from "@/components/Faq";
 import { Photos } from "@/components/Photos";
 
 export default function Home() {
   return (
-    <div className="gray px-8 py-16">
+    <div className="px-8 py-16">
       <main>
         <section className="mt-14 text-center">
-          <h2 className="text-4xl font-medium">Hack Club presents...</h2>
-          <h1 className="mt-2 text-9xl font-bold">Spark ✨</h1>
-          <h3 className="mt-4 text-3xl">📅 August 12 - 13 &bull; 📍 SF</h3>
-          <a className="mx-auto mt-4 block w-fit rounded bg-black px-8 py-4 text-2xl font-bold text-white">
-            Sign Up
+          <h2 className="text-4xl font-medium uppercase text-purple-300">
+            Hack Club presents...
+          </h2>
+          <h1 className="mt-4 text-9xl font-bold">Spark ✨</h1>
+          <h3 className="mt-8 text-3xl text-gray-600">
+            📅 August 12 - 13 &bull; 📍 SF
+          </h3>
+          <a className="mx-auto mt-4 block w-fit rounded bg-purple-500 px-8 py-4 text-2xl font-bold text-white hover:bg-purple-600">
+            Apply Now!
           </a>
         </section>
         <section className="mx-auto mt-20 max-w-6xl">
@@ -40,6 +45,9 @@ export default function Home() {
         </section>
         <section className="mt-20">
           <Photos />
+        </section>
+        <section className="mx-auto mt-20 max-w-6xl">
+          <FAQ />
         </section>
       </main>
     </div>

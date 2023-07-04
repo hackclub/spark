@@ -1,3 +1,11 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+body {
+  @apply bg-purple-50;
+}
+
+.faq a {
+  @apply font-medium text-purple-600 hover:text-purple-800;
+}
