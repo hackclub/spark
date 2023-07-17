@@ -4,7 +4,7 @@ const nextConfig = {
     return [
       {
         source: '/register',
-        destination: 'https://forms.gle/ZvhFctVAAN5W5YaP9',
+        destination: 'https://docs.google.com/forms/d/e/1FAIpQLSfatAsK7zWhWRGjxoAhOddJrfd3x23r69sCx7htvBqtx5F9zw/viewform',
         permanent: false,
       },
     ]
