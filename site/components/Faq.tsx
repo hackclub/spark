@@ -13,7 +13,7 @@ export function FAQ() {
   return (
     <div>
       <h2 className="text-4xl font-semibold">Questions?</h2>
-      <div className="faq mt-4 grid grid-cols-3 gap-3">
+      <div className="faq mt-4 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3">
         <Question q="💻 Hackathon? What's that?">
           A hackathon is a social coding event -- you get 24 hours, mentors and
           workshops, and lots of free food and swag to build anything you want.
@@ -25,8 +25,7 @@ export function FAQ() {
           and mentors to help you out.
         </Question>
         <Question q="📝 How do I sign up?">
-          You can fill out the application form above, and we&apos;ll let you
-          know whether you&apos;ve been accepted.
+          You can fill out the registration form <a href="https://forms.gle/ZvhFctVAAN5W5YaP9" target="_blank" rel="noreferrer">here</a>!
         </Question>
         <Question q="🎒 What do I need to bring?">
           Bring your laptop, charger, toiletries, a sleeping bag, and anything
@@ -74,7 +73,7 @@ export function FAQ() {
             #spark
           </a>{" "}
           channel on Slack, or email us at{" "}
-          <a href="mailto:maggie@hackclub.com">maggie@hackclub.com</a>.
+          <a href="mailto:spark@hackclub.com">spark@hackclub.com</a>.
         </Question>
       </div>
     </div>

@@ -16,15 +16,15 @@ function Photo({
   alt: string;
 }) {
   return (
-    <div className="w-fit rounded border bg-white px-4 pb-2 pt-6 shadow-lg odd:rotate-6 even:-rotate-6">
-      <div className="relative aspect-square w-64">
+    <div className="w-fit rounded border bg-white px-2 sm:px-3 lg:px-4 pb-1 sm:pb-1.5 lg:pb-2 pt-3 sm:pt-[1.125rem] lg:pt-6 shadow-lg odd:rotate-6 even:-rotate-6">
+      <div className="relative aspect-square w-32 sm:w-48 lg:w-64">
         <Image
           className="h-full w-full object-cover blur-[0.4px] brightness-[1.4] contrast-125 saturate-[60%] duration-200 hover:blur-none hover:brightness-100 hover:contrast-100 hover:saturate-100"
           src={src}
           alt={alt}
         />
       </div>
-      <div className="mt-2 h-10 w-64">{children}</div>
+      <div className="mt-2 h-10 w-32 sm:w-48 lg:w-64 text-xs sm:text-sm lg:text-base">{children}</div>
     </div>
   );
 }

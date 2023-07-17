@@ -36,6 +36,10 @@ export const sendEmail = async ({
           dkim_domain: "spark.hackclub.com",
           dkim_private_key: privateKey,
           dkim_selector: "mailchannels",
+          reply_to: {
+            email: "spark@hackclub.com",
+            name: "Spark Team",
+          },
         },
       ],
       from: from
