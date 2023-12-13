@@ -1,8 +1,6 @@
 # Spark ✨
 
-<p align="center">
-  <img src="https://cloud-kttar8vve-hack-club-bot.vercel.app/0dsc08600.jpg" width="800" align="center">
-</p>
+![Spark Image](https://cloud-kttar8vve-hack-club-bot.vercel.app/0dsc08600.jpg)
 
 ## Interview with Maggie Liu, Spark Lead Organizer
 Age: 18
