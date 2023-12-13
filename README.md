@@ -9,7 +9,7 @@ Check out our website [here](https://harvest.hackclub.com)!
 Hackathon schedules are quite typical, but we decided it would be a good idea to incorporate Halloween-themed workshops and activities throughout the day! We also encouraged Harvest attendees to dress up and come in the Halloween spirit, and many did not disappoint! 
 
 <p align="center">
-  <img src="https://cloud-q2ksslu14-hack-club-bot.vercel.app/0screenshot_2023-11-27_at_12.04.49_pm.png" width="800" align="center">
+  <img src="https://cloud-kttar8vve-hack-club-bot.vercel.app/0dsc08600.jpg" width="800" align="center">
 </p>
 
 Our schedule consisted of icebreakers and a semi-official opening ceremony, along with beginner-friendly workshops throughout the day. We also allotted time aside for students to put their all into their projects, and many came up with extremely creative projects during the pitch presentations! For many, it was their first time writing lines of code, and this hackathon gave them the opportunity to turn their designs into fully-fledged projects.
