@@ -30,7 +30,8 @@ Maggie: We didn't have a specific partner organization but what we did was we re
 ### Question: What were some of the biggest challenges in the initial stages of finding a partner organization? 
 
 Maggie:  So we initially had a lot of difficulty finding a partner mostly because it was summer and robotics teams don't really meet during the summer because everyone's on vacation. The way we found out about Space Cookies is through Adelina, who was one of the organizers. Her sister is in Space Cookies, so she was actually able to reach out to them directly, and invite all those girls to come. Since we had difficulties making a formal partnership, we decided to just reach out to a bunch of different groups, and just hope that we could gather a bunch of girls from these groups and get them to come, which I think was pretty successful. In the end, we also decided to not restrict the event to only girls and non binary so we opened it up to everyone. However, we decided to heavily focus on getting girls to come, which was pretty successful. I think about 60 or 70 people showed up and most of them were girls!
-Question: How did the registration process work? Did you guys run the registration yourself? 
+
+### Question: How did the registration process work? Did you guys run the registration yourself? 
 
 Maggie: It wasn't a formal partnership so we basically did the entire process ourselves.
 Basically, similar to all the other hackathons I've ran in the past, which is using Google Forms, which collects information, making sure to collect email, and then also other things like shirt size and dietary restrictions.
