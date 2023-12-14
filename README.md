@@ -43,7 +43,9 @@ Maggie: I ran a bunch of hackathons that year so I just sent email blasts to all
 
 Maggie:  A lot of the girls on the team are in the bay and I've worked with them on previous hackathons like Epoch, Angel Hacks, and Horizon. But we also were organizing on the Hack Club Slack so we invited anyone in the Bay Area who wanted to organize to help us out. We did fly out three people including Abby, Angela and Brianna, who are from SoCal and they were at previous Days of Service events. They helped us a ton with organizing everything and it was super awesome to have them here.
 
-![Spark Image](https://cloud-5yb9b5d4q-hack-club-bot.vercel.app/0be2647b9-5040-42ec-b5b3-c138eb2afd4f_1_105_c-min.jpeg)
+<p align="center">
+  <img src="https://cloud-5yb9b5d4q-hack-club-bot.vercel.app/0be2647b9-5040-42ec-b5b3-c138eb2afd4f_1_105_c-min.jpeg" width="500" align="center">
+</p>
 
 ### Question: Could you talk a little bit about how you decided who would do what? Did people volunteer? Also how do you make sure that everyone on the team is responsible in some technical aspect of the initiative?
 
