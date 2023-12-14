@@ -108,13 +108,13 @@ Maggie: I've done different styles of project sharing across various hackathons 
 
 ### Question: Could you talk about how your team found and secured the Sentry office as your venue for your Hackathon?
 
-<p align="center">
-  <img src="https://cloud-dcsxeqvls-hack-club-bot.vercel.app/0dsc08204-min.jpg" width="500" align="center">
-</p>
-
 Maggie: The Sentry office was amazing. They had a main area, which is their cafeteria area,  and then there was the kitchen area, so we used the kitchen area for serving food. And then the cafeteria area was where most people sat, but they could also spread themselves out through the rest of the space. The office also had meeting rooms and we used those meeting rooms for workshops and then at night, the rooms were more sleeping rooms even though I don't think many people actually slept! 
 
 To secure the venue, Christina connected me with Gavin from Sentry through email, and then we sort of went from there. They were super excited about hosting an event like this, and they're honestly super awesome, working with them was so great.
+
+<p align="center">
+  <img src="https://cloud-dcsxeqvls-hack-club-bot.vercel.app/0dsc08204-min.jpg" width="500" align="center">
+</p>
 
 
 Interested in hosting a hackathon? Read [how Hack Club can support you](https://hackathons.hackclub.com/) and check out [An Expandable Guide to Hackathon Organizing](https://expandables.hackclub.dev/organizing.html)!
