@@ -7,11 +7,11 @@ Age: 18
 
 Location: San Francisco Bay Area
 
-## Question: Could you introduce yourself and tell me a little bit about your involvement in Hack Club?
+### Question: Could you introduce yourself and tell me a little bit about your involvement in Hack Club?
 
 Maggie: I'm Maggie. I'm currently a college freshman at MIT, and while in high school I ran my school CS club as a Hack Club. I also helped organize a bunch of hackathons and I was on the Hack Club community team!
 
-# Question: How did you get involved with Days of Service and what made you want to organize one in your city?
+### Question: How did you get involved with Days of Service and what made you want to organize one in your city?
 
 Maggie: So I was invited to Horizon, which was the first pilot Days of Service. It was in New York and we worked with the Girl Scouts of Greater New York. It was honestly super cool to be able to take a bunch of middle and high school girls who had never touched coding before, and  teach them to build their first websites or games. And I thought it would be super cool to organize something like that in the Bay Area because I know there are a bunch of young girls who may be interested in STEM, robotics and coding and we could teach them how to code!
 
