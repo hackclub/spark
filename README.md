@@ -3,9 +3,9 @@
 ![Spark Image](https://cloud-mpmp8lqkn-hack-club-bot.vercel.app/0dsc08600-min.jpg)
 
 ## Interview with Maggie Liu, Spark Lead Organizer
-Age: 18
+** Age: 18 **
 
-Location: San Francisco Bay Area
+** Location: San Francisco Bay Area **
 
 ### Question: Could you introduce yourself and tell me a little bit about your involvement in Hack Club?
 
@@ -27,7 +27,7 @@ Maggie: Horizon was a lot shorter because it was just one day, and it wasn't eve
 
 Maggie: We didn't have a specific partner organization but what we did was we reached out to a bunch of youth groups and we ended up getting a lot of Space Cookies to come to our event. Space Cookies is a Robotics team and Girl Scout troop who are all girls and they are super cool because they already have some prior experience with coding, but not specifically going to hackathons or building projects. Some of the Space Cookies’ responses were that this was their first hackathon that they had been to and that they thought it was a great experience! 
 
-Question: What were some of the biggest challenges in the initial stages of finding a partner organization? 
+### Question: What were some of the biggest challenges in the initial stages of finding a partner organization? 
 
 Maggie:  So we initially had a lot of difficulty finding a partner mostly because it was summer and robotics teams don't really meet during the summer because everyone's on vacation. The way we found out about Space Cookies is through Adelina, who was one of the organizers. Her sister is in Space Cookies, so she was actually able to reach out to them directly, and invite all those girls to come. Since we had difficulties making a formal partnership, we decided to just reach out to a bunch of different groups, and just hope that we could gather a bunch of girls from these groups and get them to come, which I think was pretty successful. In the end, we also decided to not restrict the event to only girls and non binary so we opened it up to everyone. However, we decided to heavily focus on getting girls to come, which was pretty successful. I think about 60 or 70 people showed up and most of them were girls!
 Question: How did the registration process work? Did you guys run the registration yourself? 
@@ -35,7 +35,7 @@ Question: How did the registration process work? Did you guys run the registrati
 Maggie: It wasn't a formal partnership so we basically did the entire process ourselves.
 Basically, similar to all the other hackathons I've ran in the past, which is using Google Forms, which collects information, making sure to collect email, and then also other things like shirt size and dietary restrictions.
 
-Question: How did you market the event?
+### Question: How did you market the event?
 
 Maggie: I ran a bunch of hackathons that year so I just sent email blasts to all of them and then also asked them or my friends who also ran hackathons to market Spark in their Discord and email lists. Also before inviting Space Cookies to come we emailed a bunch of Girl Scout troop leaders, and then asked them to share it with fellow Girl Scouts. Also, adding the hackathon to hackathons.hackclub.com was good because I know people often sign up through that. 
 
@@ -94,3 +94,21 @@ Maggie: I've done different styles of project sharing across various hackathons 
 </p>
 
 Maggie: The Sentry office was amazing. They had a main area, which is their cafeteria area,  and then there was the kitchen area, so we used the kitchen area for serving food. And then the cafeteria area was where most people sat, but they could also spread themselves out through the rest of the space. The office also had meeting rooms and we used those meeting rooms for workshops and then at night, the rooms were more sleeping rooms even though I don't think many people actually slept! To secure the venue, Christina connected me with Gavin from Sentry through email, and then we sort of went from there. They were super excited about hosting an event like this, and they're honestly super awesome, working with them was so great.
+
+
+Interested in hosting a hackathon? Read [how Hack Club can support you](https://hackathons.hackclub.com/) and check out [An Expandable Guide to Hackathon Organizing](https://expandables.hackclub.dev/organizing.html)!
+
+## 🗽 In Years Past
+
+| Year | Project                                                            | Description                                                                                                                                                                                                                                                                           |
+| ---- | ------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2023 | [Outernet](https://outernet.hackclub.com), [Horizon](https://horizon.hackclub.com), [Alpine](https://alpine.hackclub.com), [Spark](https://spark.hackclub.com), and [Lonestar](https://lonestar.hackclub.com)      | Out-of-doors, summer adventures, and [Days of Service Events](https://daysofservice.hackclub.com/)                                                                                                                                                                                                                                                                          |
+| 2023 | [Epoch](https://epoch.hackclub.com)                                | A magical New Year's spent hacking in the Delhi NCR ([repo](https://github.com/hackclub/epoch))                                                                                                                                                                                       |
+| 2022 | [Assemble](https://assemble.hackclub.com)                          | The first high school hackathon since the pandemic! ([repo](https://github.com/hackclub/assemble)) ([finances](https://bank.hackclub.com/assemble)) ([photos](https://hack.af/assemble-photos))                                                                                       |
+| 2021 | [The Hacker Zephyr](https://github.com/hackclub/the-hacker-zephyr) | A cross-country hacker adventure on a train. ([repo](https://github.com/hackclub/the-hacker-zephyr)) ([finances](https://bank.hackclub.com/zephyr))                                                                                                                                   |
+| 2020 | [Summer of Making](https://summer.hackclub.com)                    | $50k in hardware donations to teen hackers around the world + the creation of [Scrapbook](https://scrapbook.hackclub.com) ([code](https://github.com/hackclub/scrapbook)) ([finances](https://bank.hackclub.com/summer-of-making))                                                    |
+| 2019 | [Flagship Summit](https://flagship.hackclub.com)                   | IRL meetup of high school hackathon organizers and coding club leaders ([photos](https://photos.google.com/share/AF1QipO3hb2mN-Q16icE-M16d-06uHyXLmvd3Rw6b_f_oosfAX9SnOvnouPOyO79P7pR7Q?key=anphZTNFUERPWXV3YnJQV2VzVVVFMFFVcGRDc3hB))                                                |
+| 2018 | [Hack Club Bank](https://hackclub.com/bank/)                       | We built and launched the first version of Hack Club Bank (read the [1st](https://medium.com/hackclub/hack-club-bank-a-bank-for-student-hackers-e5d894ea5375) and [2nd](https://medium.com/hackclub/hack-club-bank-is-now-live-for-everyone-including-you-884f7f54836f) announcement) |
+| 2016 | [Hack Camp](https://github.com/hackclub/camp/tree/master/2016)     | Summer camp / further writing & testing workshops                                                                                                                                                                                                                                     |
+| 2015 | [Hack Camp](https://github.com/hackclub/camp/tree/master/2015)     | Summer camp / testbed for Hack Club's first [workshops](https://workshops.hackclub.com) ([content](https://github.com/hackclub/hackclub/tree/main/workshops#readme))([code](https://github.com/hackclub/workshops))                                                                   |
+
