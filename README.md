@@ -15,7 +15,9 @@ Maggie: I'm Maggie. I'm currently a college freshman at MIT, and while in high s
 
 Maggie: So I was invited to Horizon, which was the first pilot Days of Service. It was in New York and we worked with the Girl Scouts of Greater New York. It was honestly super cool to be able to take a bunch of middle and high school girls who had never touched coding before, and  teach them to build their first websites or games. And I thought it would be super cool to organize something like that in the Bay Area because I know there are a bunch of young girls who may be interested in STEM, robotics and coding and we could teach them how to code!
 
-![Spark Image](https://cloud-mpmp8lqkn-hack-club-bot.vercel.app/0dsc08600-min.jpg)
+<p align="center">
+  <img src="https://cloud-6j82zd3ws-hack-club-bot.vercel.app/0dsc08124-min.jpg" width="500" align="center">
+</p>
 
 ### Question: From your experience at Horizon, were there any elements of Horizon that you decided you wanted to specifically repeat with your event, or aspects to the event that you decided you wanted to pivot?
 
@@ -37,7 +39,9 @@ Question: How did you market the event?
 
 Maggie: I ran a bunch of hackathons that year so I just sent email blasts to all of them and then also asked them or my friends who also ran hackathons to market Spark in their Discord and email lists. Also before inviting Space Cookies to come we emailed a bunch of Girl Scout troop leaders, and then asked them to share it with fellow Girl Scouts. Also, adding the hackathon to hackathons.hackclub.com was good because I know people often sign up through that. 
 
-![Spark Image](https://cloud-mpmp8lqkn-hack-club-bot.vercel.app/0dsc08600-min.jpg)
+<p align="center">
+  <img src="https://cloud-ot2wcdu9w-hack-club-bot.vercel.app/0dsc08186-min.jpg" width="500" align="center">
+</p>
 
 ### Question: So the next topic I wanted to ask you about is team building. How did you consider who would be on your team? What was the ratio of girls who flew out versus local girls and how did you motivate locals to come volunteer for the day of the hackathon?
 
@@ -59,6 +63,10 @@ Maggie: So I basically built out the website, but it was pretty simple and I too
 
 Maggie: For sure. For me personally, the process of designing workshops and thinking about how to best explain something helps me to understand it more. The workshop I ran was PCB design. When I was planning out the workshop, I realized that in the process of putting together the slides, I was able to understand better how PCBs work just because I needed to actually explain it to other people. I can't really speak for other Hack Club girls, but I would assume the other girls went through a similar process. 
 
+<p align="center">
+  <img src="https://cloud-1ad021ooe-hack-club-bot.vercel.app/0dsc08100-min.jpg" width="500" align="center">
+</p>
+
 ### Question: Could you talk a little bit about the various workshops that happened at Spark? What were the topics? What was the process behind planning them? How did your team decide on the topics? And how did they do the execution of the plans for the workshop?
 
 Maggie: Yeah, so we had a bunch of workshops, and they're sort of split between more technical workshops, and then more fun workshops. So for the technical, we had Intro to Website Development, iOS Development, and Intro to Design. And we also had more Advanced Web Dev, so two parts to the web dev workshop. For the more fun workshops, we had How to Play Poker, which we had run previously at Angel hacks and it was a huge hit. And then also we had my PCB design workshop, which was both fun and technical. A lot of the workshop content was pulled from previous workshops because I think we've done every single one of these workshops before. One thing is that the Intro to Design with Figma workshop was actually run by Brian, who wasn't a part of the organizing team, but he had made a jam on this, so I invited him to come run it and he's helped out at a bunch of previous hackathons.
@@ -67,16 +75,22 @@ Maggie: Yeah, so we had a bunch of workshops, and they're sort of split between 
 
 Maggie: So we did all of the workshops early on the first day so that people could come here and if they didn't have any experience programming, they could go to workshops. We put all the introductory technical ones first so that if they wanted to learn how to build a website, or build an app, they could go to one of these workshops and learn about it. And since we had so many workshops, we did many of them at the same time. So I think we had Web Dev, ios App Dev, and then also Design running at the same time in the first workshop slot, and then Web Dev Part Two, as a second slot. I know the web dev workshops were definitely super successful as I was checking in on them often. I'm pretty sure other ones had good turnout too. I think people were able to use the skills they learned to work on their projects, because I saw a lot of the final projects built were websites or apps. Regarding learning from the experience, a lot of the girls had a little bit of experience with code, but not necessarily building full projects at a hackathon, so I think the workshops are definitely a good starting point for them because they had experience so they could follow along with the workshops pretty well. The rest of the time was mostly hacking. By the way, the event was from noon on Saturday to noon on Sunday. And then we had more fun events at night, and breaks throughout. So Saturday night, we had a midnight activity, it was bracelet making, and it was async and chill, and I think that was pretty cool because people could take a break from their projects. Also Sentry’s office was really super cool. They had these arcade machines so people were able to use them. I guess a lot of people probably didn't even sleep Saturday night, they were working on their projects. And then Sunday, we had hacking end in the morning and gave people time to submit their presentations. Then they had pitches or demos.
 
-![Spark Image](https://cloud-mpmp8lqkn-hack-club-bot.vercel.app/0dsc08600-min.jpg)
+<p align="center">
+  <img src="https://cloud-pu1a7bndg-hack-club-bot.vercel.app/0dsc08176-min.jpg" width="500" align="center">
+</p>
 
 ### Question: What was the format for the demos and presentations of the finished projects?
 
 Maggie: I've done different styles of project sharing across various hackathons and what I find works best is if people are able to give a live demo of their project or just talk about it to everyone, instead of only having the gallery walk portion. But we did both the pitches and also the gallery walk portion because we did have a bit more time since it was 24 hours. So, after they had the pitches, we had them walk around. We kind of stole this idea from Hack Club Outernet, so we had sticker sheets with reactions on them– they have the fire emoji or the party emoji and then they could go around and give people stickers based on what they thought their projects corresponded to. And in previous gallery walks if you don't have this, people don't really walk around, but I think having the stickers made people want to walk around and check out other projects.
 
-![Spark Image](https://cloud-mpmp8lqkn-hack-club-bot.vercel.app/0dsc08600-min.jpg)
+<p align="center">
+  <img src="https://cloud-4dg3ztgik-hack-club-bot.vercel.app/0dsc08628-min.jpg" width="500" align="center">
+</p>
 
 ### Question: Could you talk about how your team found and secured the Sentry office as your venue for your Hackathon?
 
-![Spark Image](https://cloud-mpmp8lqkn-hack-club-bot.vercel.app/0dsc08600-min.jpg)
+<p align="center">
+  <img src="https://cloud-dcsxeqvls-hack-club-bot.vercel.app/0dsc08204-min.jpg" width="500" align="center">
+</p>
 
 Maggie: The Sentry office was amazing. They had a main area, which is their cafeteria area,  and then there was the kitchen area, so we used the kitchen area for serving food. And then the cafeteria area was where most people sat, but they could also spread themselves out through the rest of the space. The office also had meeting rooms and we used those meeting rooms for workshops and then at night, the rooms were more sleeping rooms even though I don't think many people actually slept! To secure the venue, Christina connected me with Gavin from Sentry through email, and then we sort of went from there. They were super excited about hosting an event like this, and they're honestly super awesome, working with them was so great.
