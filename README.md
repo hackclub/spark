@@ -16,7 +16,7 @@ Maggie: I'm Maggie. I'm currently a college freshman at MIT, and while in high s
 Maggie: So I was invited to Horizon, which was the first pilot Days of Service. It was in New York and we worked with the Girl Scouts of Greater New York. It was honestly super cool to be able to take a bunch of middle and high school girls who had never touched coding before, and  teach them to build their first websites or games. And I thought it would be super cool to organize something like that in the Bay Area because I know there are a bunch of young girls who may be interested in STEM, robotics and coding and we could teach them how to code!
 
 <p align="center">
-  <img src="https://cloud-6j82zd3ws-hack-club-bot.vercel.app/0dsc08124-min.jpg" width="500" align="center">
+  <img src="https://cloud-k2jle0se7-hack-club-bot.vercel.app/0dsc08340-min.jpg" width="500" align="center">
 </p>
 
 ### Question: From your experience at Horizon, were there any elements of Horizon that you decided you wanted to specifically repeat with your event, or aspects to the event that you decided you wanted to pivot?
@@ -34,6 +34,10 @@ Maggie: We didn't have a specific partner organization but what we did was we re
 Maggie:  So we initially had a lot of difficulty finding a partner mostly because it was summer and robotics teams don't really meet during the summer because everyone's on vacation. The way we found out about Space Cookies is through Adelina, who was one of the organizers. Her sister is in Space Cookies, so she was actually able to reach out to them directly, and invite all those girls to come. Since we had difficulties making a formal partnership, we decided to just reach out to a bunch of different groups, and just hope that we could gather a bunch of girls from these groups and get them to come, which I think was pretty successful. 
 
 In the end, we also decided to not restrict the event to only girls and non binary so we opened it up to everyone. However, we decided to heavily focus on getting girls to come, which was pretty successful. I think about 60 or 70 people showed up and most of them were girls!
+
+<p align="center">
+  <img src="https://cloud-6j82zd3ws-hack-club-bot.vercel.app/0dsc08124-min.jpg" width="500" align="center">
+</p>
 
 ### Question: How did the registration process work? Did you guys run the registration yourself? 
 
