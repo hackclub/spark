@@ -118,8 +118,8 @@ To secure the venue, Christina connected me with Gavin from Sentry through email
 
 
 
-Interested in hosting a hackathon? Read [how Hack Club can support you](https://hackathons.hackclub.com/) and check out [An Expandable Guide to Hackathon Organizing](https://expandables.hackclub.dev/organizing.html)!
-
+_Interested in hosting a hackathon? Read [how Hack Club can support you](https://hackathons.hackclub.com/) and check out [An Expandable Guide to Hackathon Organizing](https://expandables.hackclub.dev/organizing.html)!
+_
 ## 🗽 In Years Past
 
 | Year | Project                                                            | Description                                                                                                                                                                                                                                                                           |
