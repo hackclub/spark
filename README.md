@@ -7,13 +7,13 @@
 
 **Location: San Francisco Bay Area**
 
-<p align="center">
-  <img src="https://cloud-k2jle0se7-hack-club-bot.vercel.app/0dsc08340-min.jpg" width="500" align="center">
-</p>
-
 ### Question: Could you introduce yourself and tell me a little bit about your involvement in Hack Club?
 
 Maggie: I'm Maggie. I'm currently a college freshman at MIT, and while in high school I ran my school CS club as a Hack Club. I also helped organize a bunch of hackathons and I was on the Hack Club community team!
+
+<p align="center">
+  <img src="https://cloud-k2jle0se7-hack-club-bot.vercel.app/0dsc08340-min.jpg" width="500" align="center">
+</p>
 
 ### Question: How did you get involved with Days of Service and what made you want to organize one in your city?
 
