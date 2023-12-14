@@ -65,6 +65,7 @@ With getting involved in technical aspects, mostly people volunteered, but we al
 ### Question: With the website design, who on your team led the work of building out the site? How long did the process take and what software did you use? 
 
 Maggie: So I basically built out the website, but it was pretty simple and I took inspiration from a bunch of previous websites we've had for hackathons. It's built with next.js and react and tailwind, my favorite stack. I don't think it took that long because it was pretty simple. Basically, just a static page with a little info about the event, date, location, some FAQ questions, and then an email to contact us. Since the form was just a Google form, I didn't do anything custom for that. 
+
 One cool thing we did with tech is I made a system to automate waivers, because the liability waivers and getting it signed is kind of a pain. So when people submit a Google form, it automatically first sends them a confirmation email that shows that, yeah, you signed up and here's more information, but it also will create a way for them to sign a Liability waiver, and ask them to sign it via a service called rabbit sign, so that just makes it a lot easier for us because we don't have to manually send out waivers on that.
 
 ### Question: Do you feel like the Hack Club girls on your team increased their technical skills during the process of planning Spark? 
